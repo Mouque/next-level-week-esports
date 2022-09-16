@@ -8,12 +8,12 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 [Clique aqui para acessar](https://mouque.github.io/next-level-week-esports)
 
-## :tools: Tecnologias
+## 🛠️ Tecnologias
 
 - HTML
 - CSS
 - Git e GitHub
 
-## Contato
+## ☎️ Contato
 
 henrique.moura.ismart@gmail.com
